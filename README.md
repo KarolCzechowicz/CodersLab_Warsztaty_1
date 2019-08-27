@@ -1,12 +1,13 @@
 # CodersLab_Warsztaty_1
 
+Coders Lab bootcamp exercise
 
-Main 1 = Gra w zgadywanie liczb
+Main 1 = Guesing numbers game
 
-Main 2 = Symulator LOTTO
+Main 2 = Lotto simulator
 
-Main 3 = Gra w zgadywanie liczb 2
+Main 3 = Guessing number game 2
 
-Main 4 = Kostka do gry
+Main 4 = Dice
 
-Main 5 = Wyszukiwarka najpopularniejszych słów
+Main 5 = Most popular words searcher
